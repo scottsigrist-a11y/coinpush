@@ -1,0 +1,6 @@
+{
+  "name": "Arcade Gold Rush: 3D Coin Pusher",
+  "description": "An authentic 3D arcade coin pusher game with realistic physics, bright neon cabinet visuals, interactive dropper chute, procedural sound effects, and rare collectible prizes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
